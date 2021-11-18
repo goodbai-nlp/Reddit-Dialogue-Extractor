@@ -1,5 +1,5 @@
 run_dir: "."
-max_concurrent_downloads: 4
+max_concurrent_downloads: 16
 held_out_subreddits:
   - 3dprinting
   - accounting
